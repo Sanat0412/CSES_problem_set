@@ -2,7 +2,7 @@
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
-// It is also a basic problem based upon hashmap but i used frequency array to count the frequency of the elements.
+// It is also a basic problem based upon hashmap but i used frequency array to count the frequency of the elements if the frequency of any number is zero then that's the answer.
 import java.util.Scanner;
 
 public class Introductory_Problem_Missing_Number {

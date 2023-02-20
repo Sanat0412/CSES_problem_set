@@ -1,8 +1,9 @@
-package intoductory_problem;/*
+/*
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
 // It is just a basic problem you just have to check whether the given number is odd or even.
+package intoductory_problem;
 import java.util.Scanner;
 public class Introductory_Problem_Weird_Algorithm {
     public static void main(String[] args) {

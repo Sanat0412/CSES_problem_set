@@ -1,7 +1,11 @@
-package intoductory_problem;/*
+/*
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
+// in this problem what you have to do is to find the most repeating character in a given string
+// so, basically I'm traversing the string and try to get the character which appear continuously most of the time
+// inside the string.
+package intoductory_problem;
 import java.util.Scanner;
 public class Introductory_Problem_Repetitions {
     public static void main(String[] args) {

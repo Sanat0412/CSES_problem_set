@@ -1,10 +1,10 @@
-package searching_and_sorting;/*
+/*
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
 // this is a basic problem you just have to count the distinct number, so with the help of hashset you can find
 // the distinct number.
-
+package searching_and_sorting;
 import java.util.HashSet;
 import java.util.Scanner;
 

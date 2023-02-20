@@ -1,4 +1,4 @@
-package intoductory_problem;/*
+/*
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
@@ -10,6 +10,7 @@ package intoductory_problem;/*
 // case it is impossible to make that permutation and the reason behind storing the result into
 // the StringBuilder is on testcase 16-21 it gives TLE without using StringBuilder that's what is
  in this problem*/
+package intoductory_problem;
 import java.util.Scanner;
 
 public class Introductory_Problem_Permutations {

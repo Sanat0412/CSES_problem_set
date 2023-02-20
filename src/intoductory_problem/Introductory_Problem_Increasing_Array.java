@@ -1,4 +1,4 @@
-package intoductory_problem;/*
+/*
  * @Jai_Bajrang_Bali
  * @Har_Har_Mahadev
  */
@@ -8,7 +8,7 @@ in this problem you have to make an increasing array means if the adjacent eleme
 acceptable so, I just check if the current element is greater than to its next element then just add
 their difference into new variable and assigned the value of current element to the next element.
  */
-
+package intoductory_problem;
 import java.util.Scanner;
 public class Introductory_Problem_Increasing_Array {
     public static void main(String[] args) {
